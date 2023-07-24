@@ -17,10 +17,12 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Yuki's Practice React for git</p>
         <div className="counter">
+          <p>Counter</p>
           <p>{count}</p>
           <button onClick={take}> - </button>
           <button onClick={add}> + </button>
         </div>
+        <h2>You are the best!!</h2>
       </header>
     </div>
   );
