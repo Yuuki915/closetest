@@ -21,6 +21,7 @@ function App() {
           <button onClick={take}> - </button>
           <button onClick={add}> + </button>
         </div>
+        <h2>You are the best!!</h2>
       </header>
     </div>
   );
